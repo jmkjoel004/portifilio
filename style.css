@@ -3,4 +3,9 @@
     color: white; /* Set text color for contrast */
 }
 
-
+body {
+    background-image: url(photos/resume.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
